@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://loadingzhang.github.io/categories/</loc>
-  </url><url>
     <loc>http://loadingzhang.github.io/</loc>
+    <lastmod>2022-02-12T15:03:19+08:00</lastmod>
+  </url><url>
+    <loc>http://loadingzhang.github.io/posts/</loc>
+    <lastmod>2022-02-12T15:03:19+08:00</lastmod>
+  </url><url>
+    <loc>http://loadingzhang.github.io/posts/cr660x-ssh-padavan/</loc>
+    <lastmod>2022-02-12T15:03:19+08:00</lastmod>
+  </url><url>
+    <loc>http://loadingzhang.github.io/categories/</loc>
   </url><url>
     <loc>http://loadingzhang.github.io/tags/</loc>
   </url>
